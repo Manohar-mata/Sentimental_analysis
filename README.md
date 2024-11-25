@@ -51,6 +51,9 @@ Live Gradio App
 
 Test the sentiment analysis project live using the Gradio app: Sentiment Analysis Web App.
 
+![image](https://github.com/user-attachments/assets/feaf9287-4178-4bc8-ba58-43a963f5221c)
+
+
 **Recommendations**
 
 **Enhancements**:
