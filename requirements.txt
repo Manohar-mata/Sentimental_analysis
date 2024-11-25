@@ -1,0 +1,7 @@
+NLTK
+TextBlob
+VADER
+Numpy
+Pandas
+Matplotlib
+Seaborn
